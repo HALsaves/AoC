@@ -5,8 +5,8 @@ from pprint import pprint
 
 def main():
     """MAIN"""
-    ex_data = read_in_data('./ex5')
-    my_data = read_in_data('./input5')
+    ex_data = read_in_data('./ex')
+    my_data = read_in_data('./in')
 
     # Part 1
     print('Example 1:')
